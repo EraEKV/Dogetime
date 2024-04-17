@@ -18,6 +18,11 @@ Dogetime это онлайн платформа где вы можете рас�
 Забавное придумать не получилось, но добавил ИИ Собаку Ассистента. Он расширяет спектр возможностей в сайте и хорошо дополняет его
 
 # Скриншоты проекта
+![Desktop Screenshot 2024 04 17 - 21 34 50 51](https://github.com/EraEKV/Dogetime/assets/112917290/9a2326ec-da3c-4dd8-a0f7-39504d085b95)
+![Desktop Screenshot 2024 04 17 - 21 34 37 20](https://github.com/EraEKV/Dogetime/assets/112917290/c9bcc2f1-6894-4551-b0a6-94b235084f28)
+![Desktop Screenshot 2024 04 17 - 21 41 54 29](https://github.com/EraEKV/Dogetime/assets/112917290/53f80ece-2d83-4e44-8664-e9112033b14f)
+![Desktop Screenshot 2024 04 17 - 21 39 15 80](https://github.com/EraEKV/Dogetime/assets/112917290/627216d1-e12c-4608-a9fa-b3c4f5437955)
+![Desktop Screenshot 2024 04 17 - 21 37 09 40](https://github.com/EraEKV/Dogetime/assets/112917290/4f29f557-8f94-402a-99a8-677b4db73543)
 
 
 
